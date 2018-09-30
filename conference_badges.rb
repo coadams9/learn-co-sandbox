@@ -8,7 +8,7 @@ def badge_maker(guest)
   
   end
   
-  counter += 1
+  
 end
 
 badge_maker(guest)
