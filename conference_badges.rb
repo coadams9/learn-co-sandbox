@@ -1,4 +1,4 @@
-names = []
+
 
 
 def badge_maker(name)
