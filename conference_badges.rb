@@ -1,7 +1,7 @@
 guest = ["Edsger", "Ada", "Charles", "Alan", "Grace", "Linus", "Matz"]
 
 counter = 0
-def badge_maker(guest)
+def batch_badge_creator(guest)
   while counter < guest.length
   puts "Hello, my name is " + guest[counter] + "."
   
@@ -11,4 +11,4 @@ def badge_maker(guest)
   
 end
 
-badge_maker(guest)
+batch_badge_creator(guest)
