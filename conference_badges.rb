@@ -1,9 +1,13 @@
-badge_names = []
+guest = ["Edsger", "Ada", "Charles", "Alan", "Grace", "Linus", "Matz"]
 
-
-def badge_maker(name)
-  puts "Hello, my name is #{name}."
+x = 0
+def badge_maker(guest)
+  while x < guest.length
+  puts "Hello, my name is #{guest[x]}."
+  
+  x += 1
+  end
   
 end
 
-badge_maker(cory)
+badge_maker(guest)
