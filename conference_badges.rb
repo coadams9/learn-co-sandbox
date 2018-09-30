@@ -1,4 +1,4 @@
-badge_maker(name)
+def badge_maker(name)
   puts "Hello, my name is #{name}."
   
 end
@@ -17,4 +17,4 @@ def batch_badge_creator(guest)
   
 end
 
-assign_rooms
+assign_rooms(name, i)
