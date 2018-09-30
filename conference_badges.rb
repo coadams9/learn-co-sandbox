@@ -1,3 +1,12 @@
+
+
+
+
+
+
+
+
+
 guest = ["Edsger", "Ada", "Charles", "Alan", "Grace", "Linus", "Matz"]
 
 counter = 0
