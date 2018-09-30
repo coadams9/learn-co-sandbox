@@ -17,4 +17,4 @@ def batch_badge_creator(guest)
   
 end
 
-assign
+assign_rooms
