@@ -3,4 +3,4 @@ def badge_maker(name)
   
 end
 name = []
-badge_maker(tom)
+badge_maker()
