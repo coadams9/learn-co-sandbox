@@ -1,11 +1,11 @@
 guest = ["Edsger", "Ada", "Charles", "Alan", "Grace", "Linus", "Matz"]
 
-x = 0
+counter = 0
 def badge_maker(guest)
-  while x < guest.length
-  puts "Hello, my name is #{guest[x]}."
+  while counter < guest.length
+  puts "Hello, my name is #{guest[counter]}."
   
-  x += 1
+  counter += 1
   end
   
 end
