@@ -6,4 +6,4 @@ def badge_maker(name)
   
 end
 
-badge_maker(cory)
+badge_maker(tom)
