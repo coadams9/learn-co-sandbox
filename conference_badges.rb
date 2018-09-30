@@ -1,10 +1,7 @@
-badge_maker()
-  puts
-
-
-
-
-
+badge_maker(name)
+  puts "Hello, my name is #{name}."
+  
+end
 
 
 guest = ["Edsger", "Ada", "Charles", "Alan", "Grace", "Linus", "Matz"]
@@ -20,4 +17,3 @@ def batch_badge_creator(guest)
   
 end
 
-batch_badge_creator(guest)
