@@ -1,5 +1,5 @@
 badge_maker()
-
+  puts
 
 
 
