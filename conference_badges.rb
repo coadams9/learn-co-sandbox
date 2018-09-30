@@ -5,9 +5,10 @@ def badge_maker(guest)
   while counter < guest.length
   puts "Hello, my name is" + guest[counter] + "."
   
-  counter += 1
+  
   end
   
+  counter += 1
 end
 
 badge_maker(guest)
